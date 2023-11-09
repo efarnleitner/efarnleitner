@@ -1,4 +1,4 @@
-- Hello everyone! I'm Elias, a 26-year-old economist currently based in Vienna. 
+- Hello everyone! I'm Elias, a 27-year-old economist currently based in Vienna. 
 - My passion is exploring the intersection of development economics, spatial econometrics and climate change.
 - In particular, my research is concerned with studying the relationship between climate-related shocks and their impact on economic development.
 
