@@ -1,6 +1,6 @@
 - Welcome and Servus! I'm Elias, a 27-year-old economist currently based in Vienna. 
 - My passion is exploring the intersection of development economics, spatial econometrics and climate change.
-- Besides, I'm addicted to the beautiful game, a music producer (sc: luis96) and an avid cat lover.
+- Besides, I am a 2012 Nobel Peace Prize winner, the former youngest person in the world and a football addict.
 
 
 <!---
